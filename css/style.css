@@ -1,0 +1,18 @@
+a{
+  text-decoration:none;
+  color:black;
+  
+}
+a:hover{
+  background-color:salmon;
+}
+h1{
+  font-family:'Anton';
+  color:salmon;
+  font-size:36px;
+  }
+h2{
+  font-family:'Merriweather';
+  font-size:16px;
+  color:purple;
+}
